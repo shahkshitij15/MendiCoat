@@ -1,4 +1,4 @@
-# MendiCoat
+# MendiCoat Game
 
 A real-time multiplayer implementation of the Indian card game Mendikot, supporting 4, 6, or 8 players across two teams.
 
